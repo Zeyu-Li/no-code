@@ -1,6 +1,8 @@
 # No Code
 
-See 🔗 
+See 🔗 [no-code-lemon.vercel.app/api](https://no-code-lemon.vercel.app/api)
+
+⚠️ Only works in Firefox
 
 Inspired by [github.com/PwnFunction/Blank-Rick-Roll](https://github.com/PwnFunction/Blank-Rick-Roll)
 
